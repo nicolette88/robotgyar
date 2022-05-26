@@ -22,29 +22,29 @@ def teglalap(vizszintes, fuggoleges, color):
 # cipő
 t.penup()
 t.goto(-100, -150)
-teglalap(50, 20, 'blue')
+teglalap(50, 20, 'Navy')
 t.goto(-30, -150)
-teglalap(50, 20, 'blue')
+teglalap(50, 20, 'Navy')
 
 # lábak
 t.goto(-25, -50)
-teglalap(15, 100, 'grey')
+teglalap(15, 100, 'Lemon Chiffon')
 t.goto(-55, -50)
-teglalap(-15, 100, 'grey')
+teglalap(-15, 100, 'Lemon Chiffon')
 
 # test
 t.goto(-90, 100)
-teglalap(100, 150, 'red')
+teglalap(100, 150, 'Deep Pink')
 
 # karok
 t.goto(-150, 70)
-teglalap(60, 15, 'grey')
+teglalap(60, 15, 'Misty Rose')
 t.goto(-150, 110)
-teglalap(15, 40, 'grey')
+teglalap(15, 40, 'Misty Rose')
 t.goto(10, 70)
-teglalap(60, 15, 'grey')
+teglalap(60, 15, 'Misty Rose')
 t.goto(55, 110)
-teglalap(15, 40, 'grey')
+teglalap(15, 40, 'Misty Rose')
 
 # nyak
 t.goto(-50, 120)
@@ -52,7 +52,7 @@ teglalap(15, 20, 'grey')
 
 # fej
 t.goto(-85, 170)
-teglalap(80, 50, 'red')
+teglalap(80, 50, 'Peach Puff')
 
 # szemek
 t.goto(-60, 160)
